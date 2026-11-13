@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller builds y artefactos temporales
+build/
+dist/
+*.manifest
+
+# Backups y snapshots
+*_BACKUP*.*
+*BACKUP*.*
+RAIZ AL *.py
+*.bak
+
+# Entornos virtuales e IDEs
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Sistema y logs
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
